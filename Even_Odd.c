@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 
 void EvenOdd(int n) //function definition to find Even or odd number
 {
